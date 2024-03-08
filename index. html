@@ -89,7 +89,8 @@
                     <img src="assets/img/sponsor4.png" alt="" class="sponsor__img">
                 </div>
             </section>
-<!--=============== SPECS ===============-->
+
+            <!--=============== SPECS ===============-->
             <section class="specs section grid" id="specs">
                 <h2 class="section__title section__title-gradient">Specs</h2>
 
@@ -180,7 +181,7 @@
                             </button>
                         </div>
                     </article>
-<article class="products__card">
+                    <article class="products__card">
                         <div class="products__content">
                             <img src="assets/img/product2.png" alt="" class="products__img">
     
@@ -272,7 +273,7 @@
                         <li>
                             <a href="#" class="footer__link">Updates</a>
                         </li>
-<li>
+                        <li>
                             <a href="#" class="footer__link">Provides</a>
                         </li>
                     </ul>
